@@ -1,4 +1,4 @@
-##Mengolah Data Wilayah Indonesia dengan Python: Membangun ETL Pipeline ke BigQuery##
+Mengolah Data Wilayah Indonesia dengan Python: Membangun ETL Pipeline ke BigQuery
 1. Pendahuluan
 Dalam proyek ini saya membangun pipeline ETL (Extract, Transform, Load) menggunakan Python. Data diambil dari API Wilayah Indonesia, ditransformasikan dengan pandas, lalu dimuat ke Google BigQuery. File utama bernama PortoETL.py.
  
